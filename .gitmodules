@@ -6,3 +6,7 @@
 	path = all/modules/contrib/backup-migrate
 	url = http://git.drupal.org/project/backup_migrate.git
 	branch = 7.x-3.x
+[submodule "all/modules/contrib/twitter-follow"]
+	path = all/modules/contrib/twitter-follow
+	url = http://git.drupal.org/project/twitter_follow.git
+	branch = 7.x-1.x
